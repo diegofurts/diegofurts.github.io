@@ -40,6 +40,7 @@ Former Grad Students
 - Marina Lages Gonçalves Teixeira (PhD co-superv. 2024 - IAU-USP)
 - Angelo Cesar Mendes da Silva (PhD co-superv. 2024 - ICMC-USP)
 - Caio Luiggy Riyoichi Sawada Ueno (MSc. 2024 - UFSCar)
+- João Augusto Leite (MSc. 2024 - UFSCar)
 - Luiz Antonio Rozendo (MSc. 2024 - UFSCar)
 - Lucas Nildaimon dos Santos Silva (MSc. 2021 - UFSCar)
 - Fernando Rezende Zagatti  (MSc. 2021 - UFSCar)
