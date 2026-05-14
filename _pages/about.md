@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "DFS's Website"
+title: "Diego Furtado Silva"
 author_profile: true
 redirect_from: 
   - /about/
