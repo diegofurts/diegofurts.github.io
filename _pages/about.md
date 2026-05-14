@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "DFS's Website"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Bachelor of Computer Science at the Institute of Mathematics and Computer Sciences (ICMC), University of São Paulo (USP), São Carlos, Brazil. M.Sc. and Ph.D. in Computer Science and Computational Mathematics at ICMC-USP, in ​​time series and digital signal analysis, with research internships at Columbia University (NY) and University of California, Riverside (CA). Currently, I am an Assistant Professor at ICMC-USP and perform my research with the [Computational Intelligence Laboratory (LABIC)](https://labic.icmc.usp.br/).
 
 Contact:  diegofsilva@usp.br (diegofsilva at usp br)
