@@ -11,54 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Sciences and Computational Mathematics, University of São Paulo, 2017
+* M.S. in Computer Sciences and Computational Mathematics, University of São Paulo, 2014
+* B.S. in Computer Sciences, University of São Paulo, 2011
+* Technical Degree in Informatics, Colégio Técnico Industrial "Isaac Portal Roldán", 2004 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* University of São Paulo, USP, Brazil
+  * 2022 - current
+  * Assistant + Associate Professor
+  * Duties included: Research and Teaching
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Federal University of São Carlos, UFSCar, Brazil
+  * 2017 - 2022
+  * Assistant Professor
+  * Duties included: Research and Teaching
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* University of California, Riverside, CA, USA
+  * 2015 - 2016
+  * Research internship
+
+* Columbia University, New York, NY, USA
+  * 2013
+  * Research internship
+
+* Other experiences
+  * 2010 - Intern at Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações (CPqD) Brazil
+  * 2006-2007 - Web Developer at Planae Tecnologia da Informação, Brazil
+  * 2003 - 2004 - Intern at São Paulo State University (UNESP), Brazil
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Services to the academic community
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Associate Editor - Machine Learning Journal (Springer)
+* PC Chair of the Brazilian Conference on Intelligent Systems (BRACIS) 2025
+* PC Chair of the Encontro Nacional de Inteligência Artificial e Computacional (ENIAC) 2024
+* PC Chair of the Symposium on Knowledge Discovery, Mining and Learning (KDMiLe) 2022
+* Editorial chair of the International Conference on Computational Processing of Portuguese (PROPOR) 2022
+* PC co-Chair of the Symposium on Knowledge Discovery, Mining and Learning (KDMiLe) 2021
