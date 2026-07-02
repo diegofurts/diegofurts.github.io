@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Bachelor of Computer Science at the Institute of Mathematics and Computer Sciences (ICMC), University of São Paulo (USP), São Carlos, Brazil. M.Sc. and Ph.D. in Computer Science and Computational Mathematics at ICMC-USP, in ​​time series and digital signal analysis, with research internships at Columbia University (NY) and University of California, Riverside (CA). Currently, I am an Assistant Professor at ICMC-USP and perform my research with the [Computational Intelligence Laboratory (LABIC)](https://labic.icmc.usp.br/).
+Bachelor of Computer Science at the Institute of Mathematics and Computer Sciences (ICMC), University of São Paulo (USP), São Carlos, Brazil. M.Sc. and Ph.D. in Computer Science and Computational Mathematics at ICMC-USP, in ​​time series and digital signal analysis, with research internships at Columbia University (NY) and University of California, Riverside (CA). Currently, I am an Associate Professor / Senior Lecturer at ICMC-USP and perform my research with the [Computational Intelligence Laboratory (LABIC)](https://labic.icmc.usp.br/).
 
 Contact:  diegofsilva@usp.br (diegofsilva at usp br)
 
@@ -17,7 +17,7 @@ My focus is on the foundations and applications of Machine Learning and Data Min
 
 Students
 ======
-Yes, I do have many students. And, as my PhD co-supervisor Eamonn Keogh used to say, all my students are smarter than I am. I like to highlight their names here because I do nothing without them.
+Yes, I do have many students. And, as my PhD co-supervisor Eamonn Keogh used to say, all my students are smarter than me. I like to highlight their names here because I do nothing without them.
 
 Current Grad Students
 ------
